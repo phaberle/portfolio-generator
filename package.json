@@ -1,0 +1,22 @@
+{
+    "name": "portfolio-generator",
+    "version": "1.0.0",
+    "description": "Prompts user for information then creates an HTML file from responses.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phaberle/portfolio-generator.git"
+    },
+    "author": "phaberle",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/phaberle/portfolio-generator/issues"
+    },
+    "homepage": "https://github.com/phaberle/portfolio-generator#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    }
+}
